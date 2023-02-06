@@ -1,3 +1,3 @@
 # Dropbox clone
 
-Projeto baseado no dropbox, sumilando as principais funcionalidades.
+Projeto baseado no dropbox, simulando as principais funcionalidades.
